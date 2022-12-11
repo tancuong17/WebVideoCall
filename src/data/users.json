@@ -1,0 +1,7 @@
+[
+	{"id": "123456", "phoneNumber": "0382572663", "password": "123456", "name": "Nhật Phong", "image": "https://vtv1.mediacdn.vn/2020/1/29/phong4-15802729396951612001638.jpg", "friends": ["123460", "123458", "123457", "123459"]},
+	{"id": "123457", "phoneNumber": "0378279549", "password": "123456", "name": "Diệu Linh", "image": "https://i.pinimg.com/736x/46/9f/b7/469fb72eba73ca7d1fdd61c845105e8f.jpg", "friends": ["123460", "123457", "123456"]},
+	{"id": "123458", "phoneNumber": "0345678901", "password": "123456", "name": "Mai Huyền", "image": "https://genzrelax.com/wp-content/uploads/2022/03/hinh-gai-xinh.jpg", "friends": ["123460", "123459"]},
+	{"id": "123459", "phoneNumber": "0326361257", "password": "123456", "name": "Phương Lan", "image": "https://luv.vn/wp-content/uploads/2022/06/gai-xinh-cap-3-luv-17.jpg", "friends": ["123460", "123458", "123457"]},
+	{"id": "123460", "phoneNumber": "0329861257", "password": "123456", "name": "Tuệ Lâm", "image": "https://vaithuhayho.com/wp-content/uploads/2022/09/anh-gai-xinh-cute-50.jpg", "friends": ["123459"]}
+]
